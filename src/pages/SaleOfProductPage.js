@@ -4,6 +4,7 @@ import {Container} from "@mui/material";
 export const SaleOfProductPage = () => {
     return (
         <Container>
+            sale
         </Container>
     );
 };
